@@ -1,20 +1,21 @@
-![Illustration](src/illustration.png)
-
-# Guide complet des commandes Markdown Discord
-
-![Markdown Discord](https://example.com/markdown_discord.png)
-
-[![made by MUCKA](https://img.shields.io/badge/made%20by-MUCKA-orange)](https://mucka.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/badge/Join-Discord-7289DA)](https://discord.com)
-
-
 <p align="center">
   <a href="https://github.com/username/project/blob/master/README_EN.md"><img alt="English" src="https://img.shields.io/badge/English-informational"></a> 
   <a href="https://github.com/username/project/blob/master/README_ES.md"><img alt="Spanish" src="https://img.shields.io/badge/Spanish-informational"></a> 
   <a href="https://github.com/username/project/blob/master/README_DE.md"><img alt="German" src="https://img.shields.io/badge/German-informational"></a> 
   <a href="https://github.com/username/project/blob/master/README_JP.md"><img alt="Japanese" src="https://img.shields.io/badge/Japanese-informational"></a>
 </p>
+
+![Illustration](src/illustration.png)
+
+# Guide complet des commandes Markdown Discord
+
+
+[![made by MUCKA](https://img.shields.io/badge/made%20by-MUCKA-orange)](https://mucka.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
+[![Discord](https://img.shields.io/badge/Join-Discord-7289DA)](https://discord.com)
+
+
+
 
 > Vous souhaitez ajouter de la personnalité à vos conversations textuelles quotidiennes ? Vous avez de la chance ! Discord utilise Markdown, un système simple de formatage de texte brut qui vous aidera à **mettre en valeur vos phrases**. Voici comment faire ! Ajoutez simplement quelques caractères avant et après le texte souhaité pour modifier votre texte. Je vais vous montrer quelques exemples...
 
@@ -33,31 +34,31 @@
 
 ## Formatage de texte
 
-*Italique*	\*italique* **ou** \_italique\_
+| Style                    | Syntaxe         |
+|--------------------------|-----------------|
+| *Italique*               | \*italique*     |
+| __*Italique souligné*__   | \__\*italique souligné*__  |
+| **Gras**                 | \*\*gras**      |
+| __**Gras souligné**__     | \__\*\*gras souligné**__  |
+| ***Gras italique***      | \*\*\*gras italique***  |
+| __***Gras italique souligné***__ | \__\*\*\*gras italique souligné***__  |
+| __Souligné__             | \_\_souligné__  |
+| ~~Barré~~                | \~\~Barré~~     |
 
-__*Italique souligné*__	\__\*italique souligné*__
-
-**Gras**	\*\*gras**
-
-__**Gras souligné**__	\__\*\*gras souligné**__
-
-***Gras italique***	\*\*\*gras italique***
-
-__***Gras italique souligné***__	\__\*\*\*gras italique souligné***__
-
-__Souligné__	\_\_souligné__	
-
-~~Barré~~	 \~\~Barré~~
-
-Vous ne voulez pas utiliser Markdown ? Vous pouvez ajouter un antislash devant votre déclaration ou placer votre message dans un bloc de code, et cela échappera au formatage Markdown. Vous verrez ces astérisques comme vous le souhaitez !
+>Vous ne voulez pas utiliser Markdown ? Vous pouvez ajouter un antislash `\` devant votre déclaration ou placer votre message dans un bloc de code, et cela échappera au formatage Markdown. Vous verrez ces astérisques comme vous le souhaitez !
 
 ## Formatage de texte organisationnel
 
-### En-têtes
+### Titre
 
 Pour créer un en-tête, vous devez inclure un nombre spécifique de caractères dièse (#). Utilisez (#) pour un grand en-tête, (##) pour un en-tête plus petit, ou (###) pour un en-tête encore plus petit comme premier(s) caractère(s) sur une nouvelle ligne.
 
-![en-têtes](https://exemple.com/en-têtes.png)
+| Syntaxe      |
+|--------------|
+| # Titre 1    |
+| ## Titre 2   | 
+| ### Titre 3  |
+
 
 ### Liens masqués
 
