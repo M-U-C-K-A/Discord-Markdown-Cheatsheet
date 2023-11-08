@@ -80,15 +80,6 @@ Pour créer une liste ordonnée, ajoutez des éléments de liste avec des chiffr
 
 ![listes ordonnées](https://exemple.com/listes-ordonnées.png)
 
-## Blocs de code
-
-Discord prend également en charge les blocs de code. Vous pouvez créer vos propres blocs de code en enveloppant votre texte dans des backticks (\`)
-
-![blocs de code en ligne](https://exemple.com/blocs-de-code-en-ligne.png)
-
-Vous pouvez également utiliser trois backticks (\`\`\`) pour créer des blocs de code multilignes, comme ce haïku magnifiquement écrit.
-
-![blocs de code multilignes](https://exemple.com/blocs-de-code-multilignes.png)
 
 ## Citations de bloc
 
@@ -107,6 +98,17 @@ La syntaxe pour utiliser des citations de bloc est > ou >>> suivis d'un espace.
 Vous pouvez marquer manuellement des spoilers en utilisant la syntaxe `||` autour de votre texte ou en tapant `/spoiler` avant votre message. Cela est également annulé par un bloc de code.
 
 ![balises spoiler](https://exemple.com/balises-spoiler.png)
+
+## Blocs de code
+
+Discord prend également en charge les blocs de code. Vous pouvez créer vos propres blocs de code en enveloppant votre texte dans des backticks (\`)
+
+![blocs de code en ligne](https://exemple.com/blocs-de-code-en-ligne.png)
+
+Vous pouvez également utiliser trois backticks (\`\`\`) pour créer des blocs de code multilignes, comme ce haïku magnifiquement écrit.
+
+![blocs de code multilignes](https://exemple.com/blocs-de-code-multilignes.png)
+
 
 ## Mise en évidence de la syntaxe
 
