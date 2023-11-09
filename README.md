@@ -49,7 +49,7 @@
 ## Formatage de texte organisationnel
 
 ### Titre
-<img src="src/illustration_III.png" alt="illustration II" style="height:250px; float: right; margin-left: 10px;" />
+<img src="src/illustration_III.png" alt="illustration II" align="right" style="height:250px; float: right; margin-left: 10px;" />
 
 Pour créer un en-tête, vous devez inclure un nombre spécifique de caractères dièse (#). Utilisez (#) pour un grand en-tête, (##) pour un en-tête plus petit, ou (###) pour un en-tête encore plus petit comme premier(s) caractère(s) sur une nouvelle ligne.
 
@@ -407,7 +407,7 @@ Bien sûr, voici les remerciements améliorés avec plus de sources :
 
 Je tiens à exprimer ma gratitude envers les sources suivantes pour leur précieuse contribution à ce projet :
 
-<img src="src/illustration_II.png" alt="illustration II" style="height:250px; float: right; margin-left: 10px;" />
+<img src="src/illustration_II.png" alt="illustration II"  align="right" style="height:250px; float: right; margin-left: 10px;" />
 
 - [Discord](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline/) pour fournir des informations sur la mise en forme en Markdown.
 - [Discord Highlight.js](https://discord.gg/SkZTwPk) pour leur aide dans l'amélioration de la mise en forme des codes source.
