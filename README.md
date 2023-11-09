@@ -229,8 +229,9 @@ body {
 - Ancienne ligne
 + Nouvelle ligne
 --- un autre commentaire
-
 ```
+> [!WARNING]
+> Les commentaires peuvent ne pas s'afficher correctement sur GitHub.
 ---
 ### Fix
 > [!NOTE]  
