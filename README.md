@@ -117,90 +117,165 @@ Si vous souhaitez vraiment améliorer vos blocs de code, vous pouvez indiquer un
 ![mise en évidence de la syntaxe](https://exemple.com/mise-en-évidence-de-la-syntaxe.png)
 
 Il existe de nombreux langages différents en dehors de Markdown que la prise en charge de la syntaxe de Discord. Chaque langage différent a sa propre approche de la syntaxe mise en évidence. Notez que vous ne pourrez pas voir la mise en évidence de la syntaxe sur l'application mobile.
+Bien sûr, voici de courts exemples pour chaque langage :
 
-asciidoc
+```asciidoc
+[.code]
+====
+= Exemple de code Asciidoc
 
-![asciidoc](https://exemple.com/asciidoc.png)
+Ceci est un exemple de code Asciidoc.
+====
+```
 
-autohotkey
+```autohotkey
+; Exemple de script AutoHotkey
+MsgBox, Bonjour, ceci est un exemple AutoHotkey.
+```
 
-![autohotkey](https://exemple.com/autohotkey.png)
+```bash
+# Exemple de script bash
+echo "Bonjour, ceci est un exemple de script bash."
+```
 
-bash
+```coffeescript
+# Exemple de code CoffeeScript
+square = (x) -> x * x
+console.log square 3
+```
 
-![bash](https://exemple.com/bash.png)
+```cpp
+// Exemple de code C++
+#include <iostream>
+using namespace std;
 
-coffeescript
+int main() {
+   cout << "Bonjour, ceci est un exemple de code C++." << endl;
+   return 0;
+}
+```
+> [!IMPORTANT]  
+> Le langage C++ est souvent appelé CPP dans de nombreux contextes.
 
-![coffeescript](https://exemple.com/coffeescript.png)
 
-cpp (C++)
+```csharp
+// Exemple de code C#
+using System;
 
-![cpp](https://exemple.com/cpp.png)
+class Program {
+    static void Main() {
+        Console.WriteLine("Bonjour, ceci est un exemple de code C#.");
+    }
+}
+```
 
-cs (C#)
+```css
+/* Exemple de code CSS */
+body {
+    background-color: lightblue;
+    color: darkblue;
+    font-family: Arial, sans-serif;
+}
+```
 
-![cs](https://exemple.com/cs.png)
+```diff
+*** un commentaire
+- Exemple de code diff
+- Ancienne ligne
++ Nouvelle ligne
+--- un autre commentaire
 
-css
+```
 
-![css](https://exemple.com/css.png)
+```fix
+# Exemple de code FIX
+8=FIX.4.2 | 9=178 | 35=0 | 34=1 | 49=BRKR | 56=INVMGR | 52=19980604-07:59:56 | 112=19980604-07:59:56 | 10=103 |
+```
 
-diff
+```glsl
+// Exemple de code GLSL
+#version 330 core
+layout(location = 0) in vec3 position;
+layout(location = 1) in vec3 color;
+out vec3 ourColor;
+void main() {
+    gl_Position = vec4(position, 1.0);
+    ourColor = color;
+}
+```
 
-![diff](https://exemple.com/diff.png)
+```ini
+; Exemple de fichier INI
+[Section]
+cle=Valeur
+```
 
-fix
+```json
+{
+  "key": "value",
+  "another_key": "another_value"
+}
+```
 
-![fix](https://exemple.com/fix.png)
+```markdown
+<!-- Exemple de texte Markdown -->
+# Titre de niveau 1
+## Titre de niveau 2
+### Titre de niveau 3
 
-glsl
+- Liste
+- Liste
+- Liste
+```
 
-![glsl](https://exemple.com/glsl.png)
+```ocaml
+(* Exemple de code OCaml *)
+print_endline "Bonjour, ceci est un exemple de code OCaml."
+```
 
-ini
+```prolog
+% Exemple de code Prolog
+pere(jean, marc).
+pere(marc, jules).
+```
 
-![ini](https://exemple.com/ini.png)
+```powershell
+# Exemple de code PowerShell
+Write-Host "Bonjour, ceci est un exemple de code PowerShell."
+```
 
-json
+```python
+# Exemple de code Python
+print("Bonjour, ceci est un exemple de code Python.")
+```
 
-![json](https://exemple.com/json.png)
+```latex
+% Exemple de code LaTeX
+\documentclass{article}
+\begin{document}
+Bonjour, ceci est un exemple de code LaTeX.
+\end{document}
+```
 
-md (markdown)
+```excel
+// Exemple de formule Excel
+=A1+B1
+```
 
-![md](https://exemple.com/md.png)
+```xml
+<!-- Exemple de code XML -->
+<root>
+    <element>
+        Contenu de l'élément
+    </element>
+</root>
+```
 
-ml
-
-![ml](https://exemple.com/ml.png)
-
-prolog
-
-![prolog](https://exemple.com/prolog.png)
-
-ps
-
-![ps](https://exemple.com/ps.png)
-
-py
-
-![py](https://exemple.com/py.png)
-
-tex
-
-![tex](https://exemple.com/tex.png)
-
-xl
-
-![xl](https://exemple.com/xl.png)
-
-xml
-
-![xml](https://exemple.com/xml.png)
-
-yaml
-
-![yaml](https://exemple.com/yaml.png)
+```yaml
+# Exemple de code YAML
+key: value
+another_key: another_value
+```
 
 Et vous avez compris ! Maintenant, vous êtes un **expert en Markdown textuel de Discord**. Sortez et mettez en valeur vos déclarations !
 
