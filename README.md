@@ -365,12 +365,49 @@ Bonjour, ceci est un exemple de code LaTeX.
 key: value
 another_key: another_value
 ```
+---
+## liste des languages
+<p align="center">
+  <a href="https://asciidoc.org/"><img alt="AsciiDoc" src="https://img.shields.io/badge/AsciiDoc-informational?style=flat&logo=AsciiDoc&logoColor=white&color=black"></a> 
+  <a href="https://www.autohotkey.com/"><img alt="AutoHotkey" src="https://img.shields.io/badge/AutoHotkey-informational?style=flat&logo=AutoHotkey&logoColor=white&color=black"></a> 
+  <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=black"></a> 
+  <a href="https://coffeescript.org/"><img alt="CoffeeScript" src="https://img.shields.io/badge/CoffeeScript-informational?style=flat&logo=CoffeeScript&logoColor=white&color=black"></a> 
+  <a href="https://isocpp.org/"><img alt="C++" src="https://img.shields.io/badge/C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=black"></a> 
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C%23-informational?style=flat&logo=C%20Sharp&logoColor=white&color=black"></a> 
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS" src="https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS3&logoColor=white&color=black"></a> 
+  <a href="https://html.spec.whatwg.org/"><img alt="HTML" src="https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=black"></a> 
+  <a href="https://www.gnu.org/software/diffutils/"><img alt="Diff" src="https://img.shields.io/badge/Diff-informational?style=flat&logo=Diff&logoColor=white&color=black"></a> 
+  <a href="https://www.fixtrading.org/"><img alt="FIX" src="https://img.shields.io/badge/FIX-informational?style=flat&logo=FIX&logoColor=white&color=black"></a> 
+  <a href="https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)"><img alt="GLSL" src="https://img.shields.io/badge/GLSL-informational?style=flat&logo=OpenGL&logoColor=white&color=black"></a> 
+  <a href="https://en.wikipedia.org/wiki/INI_file"><img alt="INI" src="https://img.shields.io/badge/INI-informational?style=flat&logo=INI&logoColor=white&color=black"></a> 
+  <a href="https://www.json.org/"><img alt="JSON" src="https://img.shields.io/badge/JSON-informational?style=flat&logo=JSON&logoColor=white&color=black"></a> 
+  <a href="https://daringfireball.net/projects/markdown/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-informational?style=flat&logo=Markdown&logoColor=white&color=black"></a> 
+  <a href="https://ocaml.org/"><img alt="Ocaml" src="https://img.shields.io/badge/Ocaml-informational?style=flat&logo=OCaml&logoColor=white&color=black"></a> 
+  <a href="https://www.swi-prolog.org/"><img alt="Prolog" src="https://img.shields.io/badge/Prolog-informational?style=flat&logo=Prolog&logoColor=white&color=black"></a> 
+  <a href="https://docs.microsoft.com/en-us/powershell/"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=black"></a> 
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=black"></a> 
+  <a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=black"></a> 
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img alt="Excel" src="https://img.shields.io/badge/Excel-informational?style=flat&logo=Microsoft%20Excel&logoColor=white&color=black"></a> 
+  <a href="https://www.w3.org/XML/"><img alt="XML" src="https://img.shields.io/badge/XML-informational?style=flat&logo=XML&logoColor=white&color=black"></a> 
+  <a href="https://yaml.org/"><img alt="YAML" src="https://img.shields.io/badge/YAML-informational?style=flat&logo=YAML&logoColor=white&color=black"></a> 
+</p>
 
-Et vous avez compris ! Maintenant, vous êtes un **expert en Markdown textuel de Discord**. Sortez et mettez en valeur vos déclarations !
+> Et vous avez compris ! Maintenant, vous êtes un **expert en Markdown textuel de Discord**. Sortez et mettez en valeur vos déclarations !
+
+Bien sûr, voici les remerciements améliorés avec plus de sources :
+
+Voici une version améliorée des remerciements avec plus de sources :
 
 ## Remerciements
 
-[Discord](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)  
-[Discord Highlight.js](https://discord.gg/SkZTwPk)
+Je tiens à exprimer ma gratitude envers les sources suivantes pour leur précieuse contribution à ce projet :
+
+- [Discord](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline/) pour fournir des informations sur la mise en forme en Markdown.
+- [Discord Highlight.js](https://discord.gg/SkZTwPk) pour leur aide dans l'amélioration de la mise en forme des codes source.
+- [GitHub](https://github.com/) pour offrir une plateforme de développement collaborative.
+- [Stack Overflow](https://stackoverflow.com/) pour les nombreuses réponses utiles aux questions de programmation.
+- [W3Schools](https://www.w3schools.com/) pour leurs ressources précieuses sur les langages du web.
+- [MDN Web Docs](https://developer.mozilla.org/) pour leurs informations détaillées sur les technologies web.
+- [Le langage Markdown](https://daringfireball.net/projects/markdown/) lui-même, qui facilite la création de documents structurés.
 
 Si vous avez des questions ou si vous souhaitez me contacter, vous pouvez ajouter **matthewzring** sur Discord ou rejoindre [mon serveur Discord](https://discord.matthewzring.dev).
