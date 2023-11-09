@@ -106,18 +106,17 @@ Vous pouvez marquer manuellement des spoilers en utilisant la syntaxe `||` autou
 
 Discord prend également en charge les blocs de code. Vous pouvez créer vos propres blocs de code en enveloppant votre texte dans des backticks (\`)
 
-![blocs de code en ligne](https://exemple.com/blocs-de-code-en-ligne.png)
-
 Vous pouvez également utiliser trois backticks (\`\`\`) pour créer des blocs de code multilignes, comme ce haïku magnifiquement écrit.
 
-![blocs de code multilignes](https://exemple.com/blocs-de-code-multilignes.png)
-
+![code_no_color_Dark](src/`_no_color_dark.png#gh-dark-mode-only)
+![code_no_color_Light](src/`_no_color_light.png#gh-light-mode-only)
 
 ## Mise en évidence de la syntaxe
 
 Si vous souhaitez vraiment améliorer vos blocs de code, vous pouvez indiquer un langage spécifique pour **la mise en évidence de la syntaxe**, en tapant le nom du langage que vous souhaitez que le bloc de code attende juste après les trois premiers backticks commençant votre bloc de code. Un exemple...
 
-![mise en évidence de la syntaxe](https://exemple.com/mise-en-évidence-de-la-syntaxe.png)
+![code_Dark](src/`_dark.png#gh-dark-mode-only)
+![code_Light](src/`_light.png#gh-light-mode-only)
 
 Il existe de nombreux langages différents en dehors de Markdown que la prise en charge de la syntaxe de Discord. Chaque langage différent a sa propre approche de la syntaxe mise en évidence. Notez que vous ne pourrez pas voir la mise en évidence de la syntaxe sur l'application mobile.
 
