@@ -117,8 +117,10 @@ Si vous souhaitez vraiment améliorer vos blocs de code, vous pouvez indiquer un
 ![mise en évidence de la syntaxe](https://exemple.com/mise-en-évidence-de-la-syntaxe.png)
 
 Il existe de nombreux langages différents en dehors de Markdown que la prise en charge de la syntaxe de Discord. Chaque langage différent a sa propre approche de la syntaxe mise en évidence. Notez que vous ne pourrez pas voir la mise en évidence de la syntaxe sur l'application mobile.
-Bien sûr, voici de courts exemples pour chaque langage :
 
+
+> [!NOTE]  
+> AsciiDoc est un langage de balisage léger proche du langage Markdown, proposant une richesse sémantique similaire à DocBook.
 ```asciidoc
 [.code]
 ====
@@ -128,15 +130,24 @@ Ceci est un exemple de code Asciidoc.
 ====
 ```
 
+
+> [!NOTE]  
+> AutoHotkey est un langage de script léger pour l'automatisation de tâches sous Windows.
+
 ```autohotkey
 ; Exemple de script AutoHotkey
 MsgBox, Bonjour, ceci est un exemple AutoHotkey.
 ```
-
+> [!NOTE]  
+> Bash est un shell Unix et un langage de script de commande couramment utilisé dans les systèmes d'exploitation Linux et macOS.
 ```bash
 # Exemple de script bash
 echo "Bonjour, ceci est un exemple de script bash."
 ```
+
+
+> [!NOTE]  
+> CoffeeScript est un langage de programmation qui se compile en JavaScript.
 
 ```coffeescript
 # Exemple de code CoffeeScript
@@ -144,6 +155,8 @@ square = (x) -> x * x
 console.log square 3
 ```
 
+> [!NOTE]
+> C++ est un langage de programmation polyvalent et puissant utilisé pour le développement de logiciels système, d'applications, de jeux et bien plus encore.
 ```cpp
 // Exemple de code C++
 #include <iostream>
@@ -157,6 +170,8 @@ int main() {
 > [!IMPORTANT]  
 > Le langage C++ est souvent appelé CPP dans de nombreux contextes.
 
+> [!NOTE]  
+> C# est un langage de programmation orienté objet développé par Microsoft.
 
 ```csharp
 // Exemple de code C#
@@ -169,6 +184,8 @@ class Program {
 }
 ```
 
+> [!NOTE]  
+> CSS est un langage de feuille de style utilisé pour décrire la présentation d'un document écrit en HTML ou XML.
 ```css
 /* Exemple de code CSS */
 body {
@@ -177,6 +194,10 @@ body {
     font-family: Arial, sans-serif;
 }
 ```
+
+
+> [!NOTE]  
+> Diff est un format de données informatiques qui affiche les différences entre deux ensembles de données.
 
 ```diff
 *** un commentaire
@@ -187,10 +208,17 @@ body {
 
 ```
 
+
+> [!NOTE]  
+> FIX (Financial Information eXchange) est un langage de messagerie électronique largement utilisé pour les transactions financières.
+
+
 ```fix
 # Exemple de code FIX
 8=FIX.4.2 | 9=178 | 35=0 | 34=1 | 49=BRKR | 56=INVMGR | 52=19980604-07:59:56 | 112=19980604-07:59:56 | 10=103 |
 ```
+> [!NOTE]  
+> GLSL (OpenGL Shading Language) est un langage de programmation de shaders hautement spécialisé utilisé pour écrire des programmes de rendu pour GPU.
 
 ```glsl
 // Exemple de code GLSL
@@ -204,11 +232,17 @@ void main() {
 }
 ```
 
+> [!NOTE]  
+> Les fichiers INI (Initialisation) sont des fichiers de configuration textuels simples pour les logiciels.
 ```ini
 ; Exemple de fichier INI
 [Section]
 cle=Valeur
 ```
+
+
+> [!NOTE]  
+> JSON (JavaScript Object Notation) est un format de données couramment utilisé pour échanger des données entre un serveur et un client web.
 
 ```json
 {
@@ -216,6 +250,8 @@ cle=Valeur
   "another_key": "another_value"
 }
 ```
+> [!NOTE]  
+> Markdown est un langage de balisage léger souvent utilisé pour formater du texte sur le web.
 
 ```markdown
 <!-- Exemple de texte Markdown -->
@@ -228,27 +264,41 @@ cle=Valeur
 - Liste
 ```
 
+> [!NOTE]  
+> OCaml est un langage de programmation fonctionnel avec un système de types statique, de liaison forte et d'inférence de types.
 ```ocaml
 (* Exemple de code OCaml *)
 print_endline "Bonjour, ceci est un exemple de code OCaml."
 ```
 
+
+> [!NOTE]  
+> Prolog est un langage de programmation logique largement utilisé pour l'intelligence artificielle et le traitement du langage naturel.
 ```prolog
 % Exemple de code Prolog
 pere(jean, marc).
 pere(marc, jules).
 ```
 
+> [!NOTE]  
+> PowerShell est un langage de script et un interpréteur de commandes conçu par Microsoft.
 ```powershell
 # Exemple de code PowerShell
 Write-Host "Bonjour, ceci est un exemple de code PowerShell."
 ```
 
+
+> [!NOTE]  
+> Python est un langage de programmation interprété, de haut niveau, polyvalent et axé sur la lisibilité du code.
 ```python
 # Exemple de code Python
 print("Bonjour, ceci est un exemple de code Python.")
 ```
 
+
+
+> [!NOTE]  
+> LaTeX est un langage de composition de documents couramment utilisé pour la production de documents scientifiques et mathématiques.
 ```latex
 % Exemple de code LaTeX
 \documentclass{article}
@@ -257,11 +307,17 @@ Bonjour, ceci est un exemple de code LaTeX.
 \end{document}
 ```
 
+> [!NOTE]  
+> Excel est un logiciel de tableur développé par Microsoft, largement utilisé pour la manipulation et l'analyse de données.
+
 ```excel
 // Exemple de formule Excel
 =A1+B1
 ```
 
+
+> [!NOTE]  
+> XML (eXtensible Markup Language) est un langage de balisage utilisé pour le stockage et l'échange de données structurées.
 ```xml
 <!-- Exemple de code XML -->
 <root>
@@ -271,11 +327,15 @@ Bonjour, ceci est un exemple de code LaTeX.
 </root>
 ```
 
+> [!NOTE]  
+> YAML est un format de sérialisation de données lisible par l'homme utilisé pour les configurations de programmes et les données structurées.
 ```yaml
 # Exemple de code YAML
 key: value
 another_key: another_value
 ```
+
+
 
 Et vous avez compris ! Maintenant, vous êtes un **expert en Markdown textuel de Discord**. Sortez et mettez en valeur vos déclarations !
 
