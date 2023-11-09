@@ -70,14 +70,15 @@ Si vous ne souhaitez pas intégrer un lien, vous pouvez envelopper le lien avec 
 
 Vous pouvez créer une liste à puces en utilisant (-) ou (\*) au début de chaque ligne. Vous pouvez indenter votre liste en ajoutant un espace avant (-) ou (\*) au début de chaque ligne.
 
-![listes non ordonnées](https://exemple.com/listes-non-ordonnées.png)
+![ListeNDark](src/list_non_ordonnées_dark.png#gh-dark-mode-only)
+![ListeNLight](src/list_non_ordonnées_light.png#gh-light-mode-only)
 
 ### Listes ordonnées
 
 Pour créer une liste ordonnée, ajoutez des éléments de liste avec des chiffres suivis de points. Les chiffres ne doivent pas être dans l'ordre numérique, mais la liste commencera toujours par le premier numéro. Vous pouvez indenter votre liste en ajoutant un espace avant le chiffre au début de chaque ligne.
 
-![listes ordonnées](https://exemple.com/listes-ordonnées.png)
-
+![ListeDark](src/list_ordonnées_dark.png#gh-dark-mode-only)
+![ListeLight](src/list_ordonnées_light.png#gh-light-mode-only)
 
 ## Citations de bloc
 
@@ -85,17 +86,21 @@ La syntaxe pour utiliser des citations de bloc est > ou >>> suivis d'un espace.
 
 **\>** au début d'une ligne de texte, crée une citation de bloc sur une seule ligne.
 
-![citation de bloc d'une seule ligne](https://exemple.com/citation-de-bloc-d-une-seule-ligne.png)
+
+![>Dark](src/-_dark.png#gh-dark-mode-only)
+![>Light](src/-_light.png#gh-light-mode-only)
 
 **\>\>\>** au début d'une ligne de texte, crée une citation de bloc multiligne. Tout le texte de `>>>` jusqu'à la fin du message sera inclus dans la citation.
 
-![citation de bloc multiligne](https://exemple.com/citation-de-bloc-multiligne.png)
+![>>>Dark](src/---_dark.png#gh-dark-mode-only)
+![>>>Light](src/---_light.png#gh-light-mode-only)
 
 ## Balises Spoiler
 
 Vous pouvez marquer manuellement des spoilers en utilisant la syntaxe `||` autour de votre texte ou en tapant `/spoiler` avant votre message. Cela est également annulé par un bloc de code.
 
-![balises spoiler](https://exemple.com/balises-spoiler.png)
+![spoiler_Dark](src/spoiler_dark.png#gh-dark-mode-only)
+![spoiler_Light](src/spoiler_light.png#gh-light-mode-only)
 
 ## Blocs de code
 
