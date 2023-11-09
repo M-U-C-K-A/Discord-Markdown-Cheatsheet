@@ -129,23 +129,24 @@ Il existe de nombreux langages différents en dehors de Markdown que la prise en
 Ceci est un exemple de code Asciidoc.
 ====
 ```
-
-
+---
 > [!NOTE]  
 > AutoHotkey est un langage de script léger pour l'automatisation de tâches sous Windows.
 
+---
 ```autohotkey
 ; Exemple de script AutoHotkey
 MsgBox, Bonjour, ceci est un exemple AutoHotkey.
 ```
+
+---
 > [!NOTE]  
 > Bash est un shell Unix et un langage de script de commande couramment utilisé dans les systèmes d'exploitation Linux et macOS.
 ```bash
 # Exemple de script bash
 echo "Bonjour, ceci est un exemple de script bash."
 ```
-
-
+---
 > [!NOTE]  
 > CoffeeScript est un langage de programmation qui se compile en JavaScript.
 
@@ -154,7 +155,7 @@ echo "Bonjour, ceci est un exemple de script bash."
 square = (x) -> x * x
 console.log square 3
 ```
-
+---
 > [!NOTE]
 > C++ est un langage de programmation polyvalent et puissant utilisé pour le développement de logiciels système, d'applications, de jeux et bien plus encore.
 ```cpp
