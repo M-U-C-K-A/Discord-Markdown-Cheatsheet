@@ -14,9 +14,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
 [![Discord](https://img.shields.io/badge/Join-Discord-7289DA)](https://discord.com)
 
-
-
-
 > Vous souhaitez ajouter de la personnalité à vos conversations textuelles quotidiennes ? Vous avez de la chance ! Discord utilise Markdown, un système simple de formatage de texte brut qui vous aidera à **mettre en valeur vos phrases**. Voici comment faire ! Ajoutez simplement quelques caractères avant et après le texte souhaité pour modifier votre texte. Je vais vous montrer quelques exemples...
 
 **Contenu de ce guide :**
@@ -64,7 +61,8 @@ Pour créer un en-tête, vous devez inclure un nombre spécifique de caractères
 
 Vous pouvez utiliser des liens masqués pour rendre un texte cliquable ou appuyable. Pour ce faire, vous devez inclure le texte que vous souhaitez afficher entre crochets, puis l'URL entre parenthèses. Par exemple :
 
-![liens masqués](https://exemple.com/liens-masqués.png)
+![googleDark](src/google_lien_dark.png#gh-dark-mode-only)
+![googleLight](src/google_lien_light.png#gh-light-mode-only)
 
 Si vous ne souhaitez pas intégrer un lien, vous pouvez envelopper le lien avec `<>` pour supprimer l'intégration pour ce lien spécifique.
 
