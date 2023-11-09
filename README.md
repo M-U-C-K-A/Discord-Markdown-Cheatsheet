@@ -44,9 +44,12 @@
 
 >Vous ne voulez pas utiliser Markdown ? Vous pouvez ajouter un antislash `\` devant votre déclaration ou placer votre message dans un bloc de code, et cela échappera au formatage Markdown. Vous verrez ces astérisques comme vous le souhaitez !
 
+
+
 ## Formatage de texte organisationnel
 
 ### Titre
+<img src="src/illustration_III.png" alt="illustration II" style="height:250px; float: right; margin-left: 10px;" />
 
 Pour créer un en-tête, vous devez inclure un nombre spécifique de caractères dièse (#). Utilisez (#) pour un grand en-tête, (##) pour un en-tête plus petit, ou (###) pour un en-tête encore plus petit comme premier(s) caractère(s) sur une nouvelle ligne.
 
@@ -392,15 +395,19 @@ another_key: another_value
   <a href="https://yaml.org/"><img alt="YAML" src="https://img.shields.io/badge/YAML-informational?style=flat&logo=YAML&logoColor=white&color=black"></a> 
 </p>
 
+
+
+
 > Et vous avez compris ! Maintenant, vous êtes un **expert en Markdown textuel de Discord**. Sortez et mettez en valeur vos déclarations !
 
 Bien sûr, voici les remerciements améliorés avec plus de sources :
 
-Voici une version améliorée des remerciements avec plus de sources :
 
 ## Remerciements
 
 Je tiens à exprimer ma gratitude envers les sources suivantes pour leur précieuse contribution à ce projet :
+
+<img src="src/illustration_II.png" alt="illustration II" style="height:250px; float: right; margin-left: 10px;" />
 
 - [Discord](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline/) pour fournir des informations sur la mise en forme en Markdown.
 - [Discord Highlight.js](https://discord.gg/SkZTwPk) pour leur aide dans l'amélioration de la mise en forme des codes source.
