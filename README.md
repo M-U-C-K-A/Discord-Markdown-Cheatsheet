@@ -118,7 +118,7 @@ Si vous souhaitez vraiment améliorer vos blocs de code, vous pouvez indiquer un
 
 Il existe de nombreux langages différents en dehors de Markdown que la prise en charge de la syntaxe de Discord. Chaque langage différent a sa propre approche de la syntaxe mise en évidence. Notez que vous ne pourrez pas voir la mise en évidence de la syntaxe sur l'application mobile.
 
-
+### AsciiDoc
 > [!NOTE]  
 > AsciiDoc est un langage de balisage léger proche du langage Markdown, proposant une richesse sémantique similaire à DocBook.
 ```asciidoc
@@ -130,6 +130,7 @@ Ceci est un exemple de code Asciidoc.
 ====
 ```
 ---
+### AutoHotkey
 > [!NOTE]  
 > AutoHotkey est un langage de script léger pour l'automatisation de tâches sous Windows.
 
@@ -138,8 +139,8 @@ Ceci est un exemple de code Asciidoc.
 ; Exemple de script AutoHotkey
 MsgBox, Bonjour, ceci est un exemple AutoHotkey.
 ```
-
 ---
+### Bash
 > [!NOTE]  
 > Bash est un shell Unix et un langage de script de commande couramment utilisé dans les systèmes d'exploitation Linux et macOS.
 ```bash
@@ -147,6 +148,7 @@ MsgBox, Bonjour, ceci est un exemple AutoHotkey.
 echo "Bonjour, ceci est un exemple de script bash."
 ```
 ---
+### CofeeScript
 > [!NOTE]  
 > CoffeeScript est un langage de programmation qui se compile en JavaScript.
 
@@ -156,6 +158,7 @@ square = (x) -> x * x
 console.log square 3
 ```
 ---
+### C++
 > [!NOTE]
 > C++ est un langage de programmation polyvalent et puissant utilisé pour le développement de logiciels système, d'applications, de jeux et bien plus encore.
 ```cpp
@@ -170,7 +173,8 @@ int main() {
 ```
 > [!IMPORTANT]  
 > Le langage C++ est souvent appelé CPP dans de nombreux contextes.
-
+---
+### C#
 > [!NOTE]  
 > C# est un langage de programmation orienté objet développé par Microsoft.
 
@@ -184,7 +188,8 @@ class Program {
     }
 }
 ```
-
+---
+### Css
 > [!NOTE]  
 > CSS est un langage de feuille de style utilisé pour décrire la présentation d'un document écrit en HTML ou XML.
 ```css
@@ -195,8 +200,26 @@ body {
     font-family: Arial, sans-serif;
 }
 ```
+---
+### HTML
+> [!NOTE]
+> HTML (HyperText Markup Language) est le langage standard utilisé pour créer des pages Web.
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Titre de la page</title>
+</head>
+<body>
 
+<h1>Ceci est un exemple de code HTML</h1>
+<p>C'est une page Web de démonstration.</p>
 
+</body>
+</html>
+```
+---
+### Diff
 > [!NOTE]  
 > Diff est un format de données informatiques qui affiche les différences entre deux ensembles de données.
 
@@ -208,19 +231,18 @@ body {
 --- un autre commentaire
 
 ```
-
-
+---
+### Fix
 > [!NOTE]  
 > FIX (Financial Information eXchange) est un langage de messagerie électronique largement utilisé pour les transactions financières.
-
-
 ```fix
 # Exemple de code FIX
 8=FIX.4.2 | 9=178 | 35=0 | 34=1 | 49=BRKR | 56=INVMGR | 52=19980604-07:59:56 | 112=19980604-07:59:56 | 10=103 |
 ```
+---
+### GLSL
 > [!NOTE]  
 > GLSL (OpenGL Shading Language) est un langage de programmation de shaders hautement spécialisé utilisé pour écrire des programmes de rendu pour GPU.
-
 ```glsl
 // Exemple de code GLSL
 #version 330 core
@@ -232,7 +254,8 @@ void main() {
     ourColor = color;
 }
 ```
-
+---
+### INI
 > [!NOTE]  
 > Les fichiers INI (Initialisation) sont des fichiers de configuration textuels simples pour les logiciels.
 ```ini
@@ -240,17 +263,18 @@ void main() {
 [Section]
 cle=Valeur
 ```
-
-
+---
+### Json
 > [!NOTE]  
 > JSON (JavaScript Object Notation) est un format de données couramment utilisé pour échanger des données entre un serveur et un client web.
-
 ```json
 {
   "key": "value",
   "another_key": "another_value"
 }
 ```
+---
+### Markdown
 > [!NOTE]  
 > Markdown est un langage de balisage léger souvent utilisé pour formater du texte sur le web.
 
@@ -264,15 +288,16 @@ cle=Valeur
 - Liste
 - Liste
 ```
-
+---
+### Ocaml
 > [!NOTE]  
 > OCaml est un langage de programmation fonctionnel avec un système de types statique, de liaison forte et d'inférence de types.
 ```ocaml
 (* Exemple de code OCaml *)
 print_endline "Bonjour, ceci est un exemple de code OCaml."
 ```
-
-
+---
+### Prolog
 > [!NOTE]  
 > Prolog est un langage de programmation logique largement utilisé pour l'intelligence artificielle et le traitement du langage naturel.
 ```prolog
@@ -280,24 +305,24 @@ print_endline "Bonjour, ceci est un exemple de code OCaml."
 pere(jean, marc).
 pere(marc, jules).
 ```
-
+---
+### PowerShell
 > [!NOTE]  
 > PowerShell est un langage de script et un interpréteur de commandes conçu par Microsoft.
 ```powershell
 # Exemple de code PowerShell
 Write-Host "Bonjour, ceci est un exemple de code PowerShell."
 ```
-
-
+---
+### Python
 > [!NOTE]  
 > Python est un langage de programmation interprété, de haut niveau, polyvalent et axé sur la lisibilité du code.
 ```python
 # Exemple de code Python
 print("Bonjour, ceci est un exemple de code Python.")
 ```
-
-
-
+---
+### LaTeX
 > [!NOTE]  
 > LaTeX est un langage de composition de documents couramment utilisé pour la production de documents scientifiques et mathématiques.
 ```latex
@@ -307,7 +332,8 @@ print("Bonjour, ceci est un exemple de code Python.")
 Bonjour, ceci est un exemple de code LaTeX.
 \end{document}
 ```
-
+---
+### Excel
 > [!NOTE]  
 > Excel est un logiciel de tableur développé par Microsoft, largement utilisé pour la manipulation et l'analyse de données.
 
@@ -315,8 +341,8 @@ Bonjour, ceci est un exemple de code LaTeX.
 // Exemple de formule Excel
 =A1+B1
 ```
-
-
+---
+### XML
 > [!NOTE]  
 > XML (eXtensible Markup Language) est un langage de balisage utilisé pour le stockage et l'échange de données structurées.
 ```xml
@@ -327,7 +353,8 @@ Bonjour, ceci est un exemple de code LaTeX.
     </element>
 </root>
 ```
-
+---
+### YAML
 > [!NOTE]  
 > YAML est un format de sérialisation de données lisible par l'homme utilisé pour les configurations de programmes et les données structurées.
 ```yaml
@@ -335,8 +362,6 @@ Bonjour, ceci est un exemple de code LaTeX.
 key: value
 another_key: another_value
 ```
-
-
 
 Et vous avez compris ! Maintenant, vous êtes un **expert en Markdown textuel de Discord**. Sortez et mettez en valeur vos déclarations !
 
