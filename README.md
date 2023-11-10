@@ -417,4 +417,4 @@ Je tiens à exprimer ma gratitude envers les sources suivantes pour leur précie
 - [MDN Web Docs](https://developer.mozilla.org/) pour leurs informations détaillées sur les technologies web.
 - [Le langage Markdown](https://daringfireball.net/projects/markdown/) lui-même, qui facilite la création de documents structurés.
 
-Si vous avez des questions ou si vous souhaitez me contacter, vous pouvez ajouter **matthewzring** sur Discord ou rejoindre [mon serveur Discord](https://discord.matthewzring.dev).
+Si vous avez des questions ou si vous souhaitez me contacter, vous pouvez ajouter **m_cka** sur Discord.
