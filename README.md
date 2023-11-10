@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/username/project/blob/master/README_EN.md"><img alt="English" src="https://img.shields.io/badge/English-informational"></a> 
-  <a href="https://github.com/username/project/blob/master/README_ES.md"><img alt="Spanish" src="https://img.shields.io/badge/Spanish-informational"></a> 
-  <a href="https://github.com/username/project/blob/master/README_DE.md"><img alt="German" src="https://img.shields.io/badge/German-informational"></a> 
-  <a href="https://github.com/username/project/blob/master/README_JP.md"><img alt="Japanese" src="https://img.shields.io/badge/Japanese-informational"></a>
+  <a href="https://github.com/M-U-C-K-A/Discord-Markdown-Cheatsheet/README_EN.md"><img alt="English" src="https://img.shields.io/badge/English-informational"></a> 
+  <a href="https://github.com/M-U-C-K-A/Discord-Markdown-Cheatsheet/README_ES.md"><img alt="Spanish" src="https://img.shields.io/badge/Spanish-informational"></a> 
+  <a href="https://github.com/M-U-C-K-A/Discord-Markdown-Cheatsheet/README_DE.md"><img alt="German" src="https://img.shields.io/badge/German-informational"></a> 
+  <a href="https://github.com/M-U-C-K-A/Discord-Markdown-Cheatsheet/README_JP.md"><img alt="Japanese" src="https://img.shields.io/badge/Japanese-informational"></a>
 </p>
 
 ![Illustration](src/illustration.png)
